@@ -1,10 +1,8 @@
-👋 Hey! I’m Alex, a recent math graduate and a programmer.
+👋 Hey! I’m Alex, a recent math graduate, a researcher and a programmer.
 
 🚀 Current focus 1: ML Theory ([online convex optimization](https://arxiv.org/abs/1909.05207), [algorithmic game theory](https://raf.prof/teaching/7000-f23.html), [general ML research paper bi-weekly reading](https://www.meetup.com/learndatascience/))
 
 🚀 Current focus 2: [Story of Hands](https://github.com/tianyimasf/story-of-hands), an online art game, an intuitive interface for players to guess the story behind a curated collection of hand gesture pictures.
-
-🚀 Current focus 3: conducting research about gender and racial biases in Chinese and English stable diffusion Generative AI models with [Prof. Daniel Acuna](https://www.colorado.edu/cs/daniel-acuna).
 
 📚 Interests: ML, HCI, data viz, full stack dev
 
@@ -20,7 +18,7 @@ Stuff I've done:
 
 ---
 
-📫 Reach me through my email: tianyi437@gmail.com, [LinkedIn](https://www.linkedin.com/in/alex-tianyi-ma-9b2012170/)
+📫 Reach me through my email: tianyi437@gmail.com, [LinkedIn](https://www.linkedin.com/in/alex-tianyi-ma-9b2012170/) | [CV](https://drive.google.com/file/d/1reZClf2EUwtmM4EoH51jE6BjXVzZG2yU/view?usp=sharing)
 
 ⚡ Extracurricular: climate change, games, fictions and cats.
 

@@ -1,4 +1,4 @@
-👋 Hey! I’m Alex, a recent math graduate with a cs minor and a programmer.
+👋 Hey! I’m Alex, a recent math graduate and a programmer.
 
 🚀 Current focus 1: ML Theory ([online convex optimization](https://arxiv.org/abs/1909.05207), [algorithmic game theory](https://raf.prof/teaching/7000-f23.html), [general ML research paper bi-weekly reading](https://www.meetup.com/learndatascience/))
 

@@ -4,6 +4,8 @@
 
 🚀 Current focus 2: [Story of Hands](https://github.com/tianyimasf/story-of-hands), an online art game, an intuitive interface for players to guess the story behind a curated collection of hand gesture pictures.
 
+🚀 Current focus 3: conducting research about gender and racial biases in Chinese and English stable diffusion Generative AI models with [Prof. Daniel Acuna](https://www.colorado.edu/cs/daniel-acuna).
+
 📚 Interests: ML, HCI, data viz, full stack dev
 
 🤔 I’m currently applying for Fall 2023 entry for Georgia Tech's online MSCS program, looking to specialize in Human Computer Interaction(HCI) and work in the interactive media/graphic programming industry.

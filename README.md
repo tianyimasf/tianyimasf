@@ -21,3 +21,5 @@ Stuff I've done:
 📫 Reach me through my email: tianyi437@gmail.com, [LinkedIn](https://www.linkedin.com/in/alex-tianyi-ma-9b2012170/)
 
 ⚡ Extracurricular: climate change, games, fictions and cats.
+
+👻 I'm a Chinese translator for the climate change action app Earth Hero!

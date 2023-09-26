@@ -22,4 +22,4 @@ Stuff I've done:
 
 ⚡ Extracurricular: climate change, games, fictions and cats.
 
-👻 I'm a Chinese translator for the climate change action app Earth Hero!
+👻 I'm a Chinese translator for the climate change action app Earth Hero! They are very cool so please [check them out](https://www.earthhero.org/)!

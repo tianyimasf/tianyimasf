@@ -18,7 +18,8 @@ Stuff I've done:
 
 ---
 
-📫 Reach me through my email: tianyi437@gmail.com, [LinkedIn](https://www.linkedin.com/in/alex-tianyi-ma-9b2012170/) | [Resume](https://drive.google.com/file/d/1gVrHZfx9qs_jHGY3eEQnIM1TCWCgOtvw/view?usp=sharing) [CV](https://drive.google.com/file/d/1rlGCdctIhXDLI6_q8EN9oylXCCXC6BZW/view?usp=sharing)
+📫 Reach me through my email: tianyi437@gmail.com, [LinkedIn](https://www.linkedin.com/in/alex-tianyi-ma-9b2012170/) | [Resume](https://drive.google.com/file/d/1gVrHZfx9qs_jHGY3eEQnIM1TCWCgOtvw/view?usp=sharing) 
+  [CV](https://drive.google.com/file/d/1rlGCdctIhXDLI6_q8EN9oylXCCXC6BZW/view?usp=sharing)
 
 ⚡ Extracurricular: climate change, games, fictions and cats.
 

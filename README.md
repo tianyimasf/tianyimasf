@@ -11,6 +11,6 @@
 
 ---
 
-📫 Reach me through my email: alex.ma@colorado.edu | [Portfolio Website](tianyimasf.github.io) | [LinkedIn](https://www.linkedin.com/in/alex-tianyi-ma/) | [Resume](https://docs.google.com/document/d/1zu5werCJ4cDZzscQQw3IPo-R9shvCIJF/edit?usp=sharing&ouid=102993378301701132338&rtpof=true&sd=true) 
+📫 Reach me through my email: alex.ma@colorado.edu | [Portfolio Website](https://tianyimasf.github.io/) | [LinkedIn](https://www.linkedin.com/in/alex-tianyi-ma/) | [Resume](https://docs.google.com/document/d/1zu5werCJ4cDZzscQQw3IPo-R9shvCIJF/edit?usp=sharing&ouid=102993378301701132338&rtpof=true&sd=true) 
 
 ⚡ Extracurricular: drawing, singing, makeup/fashion, and reading.

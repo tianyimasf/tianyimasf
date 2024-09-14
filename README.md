@@ -9,6 +9,6 @@
 
 ---
 
-📫 Reach me through my email: alex.ma@colorado.edu | [LinkedIn](https://www.linkedin.com/in/alex-tianyi-ma/)
+📫 Reach me through my email: alex.ma@colorado.edu | [LinkedIn](https://www.linkedin.com/in/alex-tianyi-ma/) | [Resume](https://drive.google.com/file/d/16WkJcqv928tYye41alG_ddZ63Ssl4KHO/view?usp=sharing)
 
 ⚡ Extracurricular: drawing, singing, makeup/fashion, and reading.

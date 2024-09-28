@@ -2,7 +2,7 @@
 
 🚀 Current focus: mathematical statistics & smart grid grad classes @UC Boulder; environmental data analyst intern @Mercy Housing doing data QA & smart meter analytics. 
 
-👩‍🏫 Check out my presentation about [electricity impact of a single-family home in Delhi, India](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:ba49b284-9e39-404e-a921-834a885147eb)
+👩‍🏫 Check out my presentation about [electricity impact of a single-family home in Delhi, India](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:ba49b284-9e39-404e-a921-834a885147eb) | [report (even better!)](https://docs.google.com/document/d/1el2Cpr14VCxVh3XIpPGrJQi7WbnPwbu4f36IL4jGH1U/edit?usp=sharing)
 
 📚 Interests: 
 - app dev (web & ios)

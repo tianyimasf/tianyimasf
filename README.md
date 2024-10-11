@@ -8,8 +8,8 @@
 
 📚 Interests: 
 - app dev (web & ios)
-- environmental data science
-- natural language processing, social computing and graph neural net
+- environmental machine learning
+- computer vision, multimodal with natural language processing/audio data, graph neural net and explainably AI
 
 ---
 

@@ -13,6 +13,6 @@
 
 ---
 
-📫 Reach me through my email: alex.ma@colorado.edu | [LinkedIn](https://www.linkedin.com/in/alex-tianyi-ma/) | [SWE Resume](https://drive.google.com/file/d/16WkJcqv928tYye41alG_ddZ63Ssl4KHO/view?usp=sharing) | [Data Scientist Resume](https://drive.google.com/file/d/12OoNXyelYWwcceiWyVkKjBFv9yi8gTCP/view?usp=sharing)
+📫 Reach me through my email: alex.ma@colorado.edu | [LinkedIn](https://www.linkedin.com/in/alex-tianyi-ma/) | [Resume](https://drive.google.com/file/d/1W9CN3hfU2AtdZovFwqzP5MXFB2W60nLW/view?usp=sharing)
 
 ⚡ Extracurricular: drawing, singing, makeup/fashion, and reading.

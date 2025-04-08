@@ -1,6 +1,6 @@
 👋 Hey! I’m Alex, an applied math master's student @CU Boulder.
 
-🚀 Current focus: geospatial AI for ecology and sustainable global development goals.
+🚀 Current focus: geospatial AI, AI for ecology and sustainable global development goals.
 
 ---
 

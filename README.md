@@ -1,6 +1,6 @@
 👋 Hey! I’m Alex, an applied math master's student @CU Boulder.
 
-🚀 Current focus: geospatial AI, AI for ecology and sustainable agriculture, market and sales analytics for digital and fashion/makeup products.
+🚀 Current focus: AI x Conservation, geospatial AI, Software Engineering. [Data Science Projects (hosted on Kaggle)](https://tianyimasf.github.io/ai-for-good-projects.html)
 
 ---
 

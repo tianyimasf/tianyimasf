@@ -1,6 +1,6 @@
 👋 Hey! I’m Alex, an applied math master's student @CU Boulder.
 
-🚀 Current focus: Graph Neural Network and CNN research with applications to ecological conservation, Software Engineering. [Data Science Projects (hosted on Kaggle)](https://tianyimasf.github.io/ai-for-good-projects.html)
+🚀 Current focus: Graph Neural Network and CNN research with applications to ecological conservation, Software Engineering. [Data Science / AI Projects (hosted on Kaggle)](https://tianyimasf.github.io/ai-for-good-projects.html)
 
 ---
 

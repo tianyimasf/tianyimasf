@@ -6,8 +6,6 @@
 
 [All Data Science Projects (hosted on Kaggle)](https://tianyimasf.github.io/ai-for-good-projects.html)
 
-Environmental Rights Violations Chatbot
-
 ---
 
 📫 Reach me through my email: alex.ma@colorado.edu | [LinkedIn](https://www.linkedin.com/in/alex-tianyi-ma/)

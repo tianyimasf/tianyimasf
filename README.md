@@ -2,7 +2,11 @@
 
 🚀 Current focus: Graph Neural Network and CNN research with applications to ecological conservation, Software Engineering. 
 
-🛠️ Selected projects: [Environmental Rights Violations Chatbot](https://www.kaggle.com/code/tianyimasf/environmental-rights-violations-chatbot) | [Product Labeling Transformers](https://www.kaggle.com/code/tianyimasf/product-labeling-transformers) | [Wheat Price Shock Forecast with Transformer](https://www.kaggle.com/code/tianyimasf/wheat-price-shock-forecast)
+🛠️ Selected projects: 
+
+- Geospatial Foundational Models: [Predicting Wealth & Poverty with MOSAIKS](https://www.kaggle.com/code/tianyimasf/predicting-wealth-poverty-with-mosaiks) | [Predicting Wealth & Poverty with SatCLIP](https://www.kaggle.com/code/tianyimasf/predicting-wealth-poverty-with-satclip)
+
+- LLM: [Environmental Rights Violations Chatbot](https://www.kaggle.com/code/tianyimasf/environmental-rights-violations-chatbot) | [Product Labeling Transformers](https://www.kaggle.com/code/tianyimasf/product-labeling-transformers) | [Wheat Price Shock Forecast with Transformer](https://www.kaggle.com/code/tianyimasf/wheat-price-shock-forecast)
 
 [All Data Science Projects (hosted on Kaggle)](https://tianyimasf.github.io/ai-for-good-projects.html)
 

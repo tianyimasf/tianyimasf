@@ -2,7 +2,7 @@
 
 🚀 Current focus: Graph Neural Network and CNN research with applications to ecological conservation ([gnn4sdm](https://github.com/tianyimasf/gnn4sdm)), Software Engineering. 
 
-🛠️ Selected projects: (start from 'Submission')
+🛠️ Selected projects: 
 
 - Geospatial Foundational Models: [Predicting Wealth & Poverty with MOSAIKS](https://www.kaggle.com/code/tianyimasf/predicting-wealth-poverty-with-mosaiks) | [Predicting Wealth & Poverty with SatCLIP](https://www.kaggle.com/code/tianyimasf/predicting-wealth-poverty-with-satclip)
 

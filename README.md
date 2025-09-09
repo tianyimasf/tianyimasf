@@ -8,7 +8,7 @@
 
 - LLM: [Environmental Rights Violations Chatbot](https://www.kaggle.com/code/tianyimasf/environmental-rights-violations-chatbot) | [Product Labeling Transformers](https://www.kaggle.com/code/tianyimasf/product-labeling-transformers) | [Wheat Price Shock Forecast with Transformer](https://www.kaggle.com/code/tianyimasf/wheat-price-shock-forecast)
 
-- [Video Game Sales Analysis And Modeling Using R](https://www.kaggle.com/code/tianyimasf/r-feature-analysis-modeling)
+- R Sales Analysis: [Video Game Sales Analysis And Modeling Using R](https://www.kaggle.com/code/tianyimasf/r-feature-analysis-modeling)
 
 [All Data Science Projects (hosted on Kaggle)](https://tianyimasf.github.io/ai-for-good-projects.html)
 
